@@ -1,3 +1,7 @@
+"""
+Sorry for no requirements
+pip install textdistance
+"""
 from functools import reduce
 import textdistance as td
 

@@ -1,3 +1,7 @@
+"""
+Sorry for no requirements
+pip install lorem
+"""
 import lorem
 
 
